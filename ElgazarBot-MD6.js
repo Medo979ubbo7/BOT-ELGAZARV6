@@ -1241,7 +1241,7 @@ break
           m.reply(`Exif has been successfully changed to\n\n${themeemoji} Packname : ${global.packname}\n${themeemoji} Author : ${global.author}`)
             }
             break
-	case 'kick': case 'طرد': case 'اطرد': {
+	case 'kicتسوؤوثوثk': case 'طنينؤوصورد': case 'اطميزرزيحسرد': {
 		if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
@@ -1249,7 +1249,7 @@ break
 		await ElgazarBot.groupParticipantsUpdate(m.chat, [users], 'remove').then((res) => m.reply(jsonformat(res))).catch((err) => m.reply(jsonformat(err)))
 	}
 	break
-	case 'add': case 'اضافه': case 'ضيف': {
+	case 'adنثمرزثزيكمd': case 'اضينزرزثنرزيافه': case 'ضيزينروثمرزف': {
 		if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
@@ -1322,7 +1322,7 @@ break
                 m.reply(mess.success)
                 }
                 break
-            case 'tagall': case 'منشن': case 'ازعاج': {
+            case 'tagall': case 'منشن': case 'نيزيظيميظيظ': {
                 if (!m.isGroup) throw mess.group
                 if (!isBotAdmins) throw mess.botAdmin
                 if (!isAdmins) throw mess.admin
@@ -1735,7 +1735,7 @@ case 'sticker': case 's': case 'ملصق': case 'ستيكر': {
 case 'buypreim':
 m.reply(`Chat owner bro, please type .owner`)
 break
-  case 'لللللللل':
+  case 'للللللىبةقلل':
 if (!isCreator) throw mess.owner
 if (!q) return m.reply(`Enter the sample number\n\nExample: \n${prefix}${command} 916909137213`)
 if(isNaN(q)) return await m.reply('must be a number')
@@ -1746,7 +1746,7 @@ fs.writeFileSync('./database/user/premium.json', JSON.stringify(premium))
 m.reply(`* PREMIUM ADDED *\n\n${themeemoji} *ID*: ${prmi}`)
 break
 case 'delprem':
- case 'لللللللللل':
+ case 'لللللةبمبظللللل':
 if (!isCreator) throw mess.owner
   if (!q) return m.reply(`Enter the Number\n\nExample: \n${prefix}${command} 916909137213`)
   if(isNaN(q)) return await m.reply('must be a number')
@@ -6971,7 +6971,7 @@ ElgazarBot.sendMessage(from, { text: `*${command}*\n\nالاسم : ${q}\nالا�
 					break
 					case 'شخصيتك':
 					if (!text) return m.reply(`منشن علي شخص, مثال : ${prefix + command} @abdallah`)
-					const xeony =['زفت','واطي','غبي','مطيع','غلبان','جدع','طيب','حبوب','جميل','حمار','محترم','شرموط','كلب','ورع']
+					const xeony =['زفت','واطي','غبي','مطيع','غلبان','جدع','طيب','حبوب','جميل','حمار','محترم','جامد','كلب','ورع']
 					const taky = xeony[Math.floor(Math.random() * xeony.length)]
 					ElgazarBot.sendMessage(from, { text: `التحقق من الشخصيه : ${q}\nالاجابه : *${taky}*` }, { quoted: m })
 				     break
@@ -6998,7 +6998,7 @@ ElgazarBot.sendMessage(from, { text: `*${command}*\n\nالاسم : ${q}\nالا�
       case 'حمار':
       case 'خروف':
       case 'ذكي':
-      case 'رقاص':
+      case 'ونبيسي':
       case 'زفت':
       case 'سافل':
       case 'شجاع':
@@ -7026,18 +7026,18 @@ ElgazarBot.sendMessage(from, { text: `*${command}*\n\nالاسم : ${q}\nالا�
       case 'مظلوم':
       case 'مكروه':
       case 'مؤدب':
-      case 'نجس':
+      case 'جدع':
       case 'وصخ':
       case 'ورع':
-      case 'شاذ':
+      case 'ذكي':
       case 'علق':
-      case 'متناك':
-      case 'خول':
+      case 'جبان':
+      case 'فاشل':
       case 'وسخ':
       case 'مكروف':
       case 'هطف':
       case 'اهبل':
-      case 'معرص':
+      case 'شجاع':
       case 'عبقري':
       case 'اهطل': {
             if (!m.isGroup) return m.reply(`${mess.group}`)
