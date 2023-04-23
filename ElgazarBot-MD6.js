@@ -4711,7 +4711,7 @@ case 'dare': case 'تويت':
   "أجمل شي بحياتك وش هو؟ ",
 ]
               const xeondare = dare[Math.floor(Math.random() * dare.length)]
-              bufferdare = await getBuffer(`https://www.directupload.net/file/d/6889/k5i3sx77_jpg.htm`)
+              bufferdare = await getBuffer(`https://i.postimg.cc/j5Tk1BZn/IMG-20230418-WA0441-1.jpg`)
               ElgazarBot.sendMessage(from, { image: bufferdare, caption: '*♚ مرحبا بك في قسم تويت*\nꔹ━━━━━ꔹ\n'+ xeondare }, {quoted:m})
               break
                             break
@@ -4815,7 +4815,7 @@ case 'dare': case 'تويت':
 "لو خيروك |  بين مشاركة المنزل مع عائلة من الفئران أو عائلة من الأشخاص المزعجين الفضوليين الذين يتدخلون في كل كبيرة وصغيرة؟ ",
 ]
               const xeontruth = truth[Math.floor(Math.random() * truth.length)]
-              buffertruth = await getBuffer(`https://www.directupload.net/file/d/6889/k5i3sx77_jpg.htm`)
+              buffertruth = await getBuffer(`https://i.postimg.cc/j5Tk1BZn/IMG-20230418-WA0441-1.jpg`)
               ElgazarBot.sendMessage(from, { image: buffertruth, caption: '*♚ مرحبا بك في لعبة لو خيروك*\nꔹ━━━━━ꔹ\n'+ xeontruth }, {quoted:m})
               break  
               
@@ -4864,7 +4864,7 @@ case 'dare': case 'تويت':
 "‏مامن لسان يستغفر إلا فتحت له الدنيا بما فيها أستغفرك ربي وأتوب إليك "
 ]
               const xeontruth1 = truth1[Math.floor(Math.random() * truth1.length)]
-              buffertruth1 = await getBuffer(`https://www.directupload.net/file/d/6889/k5i3sx77_jpg.htm`)
+              buffertruth1 = await getBuffer(`https://i.postimg.cc/j5Tk1BZn/IMG-20230418-WA0441-1.jpg`)
               ElgazarBot.sendMessage(from, { image: buffertruth1, caption: '*♚ مرحبا بك في قسم الاذكار*\nꔹ━━━━━ꔹ\n'+ xeontruth1 }, {quoted:m})
               break
        
@@ -4986,7 +4986,7 @@ case 'dare': case 'تويت':
     "『فيجيتا』","『غوكو』","『شيسوي』","『ايتاشي』","『ناروتو』","『كيلوا』","『لوفي زورو سانجي』","『زاراكي ايزن توسين』","『ناروتو ساسكي كاكاشي』","『مادارا اوبيتو』","『هاشيراما توبيراما』","『انزاي دازاي』","『هاغومورو』","『سوكونا يوجي』","『كاكاشي هاتاكي』","『فوغاكو اوتشيها』","『ناروتو اوزوماكي』","『غارب لوفي ايس ساب』و","『اكاينو اوكيجي كيزارو』","『غون كيلوا』","『اوميني』","『سيلفا زينو نيترو』","『استا يامي』","『كيسكي يوروتشي ايتشيغو』","『ساروتوبي دانزو』","『فوجيتورا』","『نامي روبين』","『هيماواري هينات』","『ستارك جريمجو نيل』","『الوكا』","『شينو كيبا』","『روك لي مايت غاي』","『ايتاشي ساسكي』","『كونان ناغاتو ياهيكو』","『جيرايا تسونادي』","『ساي اينو』","『شينرا』","『ثوركيل ثورفين ثورز』","『اشيلاد』","『لاو ميهوك زورو』","『تيتش ادوارد』","『ناكا اوتشيها』","『هيروزين ساروتوبي』","『مونكي دي لوفي』","『كارين』","『موريا』","『اشورا هامورا』","『انيوشا كاجومي』","『ديدارا ساسوري』","『روجر رايلي』","『تانجيرو نيزيكو』","『زينيتسو اينوسكي』","『زيك ايرين』","『ميكاسا اني』","『ليفاي اكيرمان』","『ايروين مايكي』","『مايكي دراكن』","『هيسوكا』","『ارمين』","『هاتسوني ميكو』","『كورو』","『اوراهارا كيسكي』","『شينوبو كاناو』","『كيسامي اكاشي』","『كوزان』",
 ]
               const xeongmscat = gmscat[Math.floor(Math.random() * gmscat.length)]
-              buffergmscat = await getBuffer(`https://www.directupload.net/file/d/6889/k5i3sx77_jpg.htm`)
+              buffergmscat = await getBuffer(`https://i.postimg.cc/j5Tk1BZn/IMG-20230418-WA0441-1.jpg`)
               ElgazarBot.sendMessage(from, { image: buffergmscat, caption: '*♚ مرحبا بك في كت*\nꔹ━━━━━ꔹ\n'+ xeongmscat }, {quoted:m})
               break
        
@@ -5054,7 +5054,7 @@ case 'dare': case 'تويت':
 " كنت نصحت نفسي ياخويا😹",
 ]
               const xeonisjshsd = isjshsd[Math.floor(Math.random() * isjshsd.length)]
-              bufferisjshsd = await getBuffer(`https://www.directupload.net/file/d/6889/k5i3sx77_jpg.htm`)
+              bufferisjshsd = await getBuffer(`https://i.postimg.cc/j5Tk1BZn/IMG-20230418-WA0441-1.jpg`)
               ElgazarBot.sendMessage(from, { image: bufferisjshsd, caption: '*♚ اتفضل النصيحه اعمل بيها*\nꔹ━━━━━ꔹ\n'+ xeonisjshsd }, {quoted:m})
               break
        
@@ -5112,7 +5112,7 @@ case 'dare': case 'تويت':
 "دولة واسم بحرف ⤌ ب  ",
 ]
               const xeonidhsisgd = idhsisgd[Math.floor(Math.random() * idhsisgd.length)]
-              bufferidhsisgd = await getBuffer(`https://www.directupload.net/file/d/6889/k5i3sx77_jpg.htm`)
+              bufferidhsisgd = await getBuffer(`https://i.postimg.cc/j5Tk1BZn/IMG-20230418-WA0441-1.jpg`)
               ElgazarBot.sendMessage(from, { image: bufferidhsisgd, caption: '*♚ مرحبا بك في لعبة الحروف*\nꔹ━━━━━ꔹ\n'+ xeonidhsisgd }, {quoted:m})
               break
        
@@ -5361,7 +5361,7 @@ case 'dare': case 'تويت':
 "سورتان في القرآن الكريم معروفتين باسم الزهراوان، فما هما؟ ",
 ]
               const xeonjtudvu = jtudvu[Math.floor(Math.random() * jtudvu.length)]
-              bufferjtudvu = await getBuffer(`https://www.directupload.net/file/d/6889/k5i3sx77_jpg.htm`)
+              bufferjtudvu = await getBuffer(`https://i.postimg.cc/j5Tk1BZn/IMG-20230418-WA0441-1.jpg`)
               ElgazarBot.sendMessage(from, { image: bufferjtudvu, caption: '*♚ اتفضل سوال يلا جاوب*\nꔹ━━━━━ꔹ\n'+ xeonjtudvu }, {quoted:m})
               break
        
@@ -5821,7 +5821,7 @@ m.reply(mess.wait)
                     return('Error!')
                 })
 break  
-case 'milf':
+case 'jskxnwoxnek':
 if (!m.isGroup) return m.reply(mess.group)
 m.reply(mess.wait)
 var but = [{buttonId: `${command}`, buttonText: { displayText: "NEXT➡️" }, type: 1 }]
@@ -5838,7 +5838,7 @@ var ahegaonsfw = JSON.parse(fs.readFileSync('./HostMedia/nsfw/ahegao.json'))
 var xeonyresult = pickRandom(ahegaonsfw)
 ElgazarBot.sendMessage(m.chat, { caption: mess.success, image: { url: xeonyresult.url }, buttons: but, footer: botname }, { quoted: m })
 break
-case 'ass':
+cas'hhdbjsjd':
 if (!m.isGroup) return m.reply(mess.group)
 	if (!AntiNsfw) return m.reply(mess.nsfw)
 m.reply(mess.wait)
@@ -5856,7 +5856,7 @@ var ahegaonsfw = JSON.parse(fs.readFileSync('./HostMedia/nsfw/bdsm.json'))
 var xeonyresult = pickRandom(ahegaonsfw)
 ElgazarBot.sendMessage(m.chat, { caption: mess.success, image: { url: xeonyresult.url }, buttons: but, footer: botname }, { quoted: m })
 break
-case 'blowjob':
+case 'blowjobdhsbbj':
 if (!m.isGroup) return m.reply(mess.group)
 	if (!AntiNsfw) return m.reply(mess.nsfw)
 m.reply(mess.wait)
@@ -5865,7 +5865,7 @@ var ahegaonsfw = JSON.parse(fs.readFileSync('./HostMedia/nsfw/blowjob.json'))
 var xeonyresult = pickRandom(ahegaonsfw)
 ElgazarBot.sendMessage(m.chat, { caption: mess.success, image: { url: xeonyresult.url }, buttons: but, footer: botname }, { quoted: m })
 break
-case 'cuckold':
+case 'cuckolddhdhbdb':
 if (!m.isGroup) return m.reply(mess.group)
 	if (!AntiNsfw) return m.reply(mess.nsfw)
 m.reply(mess.wait)
@@ -5874,7 +5874,7 @@ var ahegaonsfw = JSON.parse(fs.readFileSync('./HostMedia/nsfw/cuckold.json'))
 var xeonyresult = pickRandom(ahegaonsfw)
 ElgazarBot.sendMessage(m.chat, { caption: mess.success, image: { url: xeonyresult.url }, buttons: but, footer: botname }, { quoted: m })
 break
-case 'cum':
+case 'ddhbhhdhdb':
 if (!m.isGroup) return m.reply(mess.group)
 	if (!AntiNsfw) return m.reply(mess.nsfw)
 m.reply(mess.wait)
@@ -6757,7 +6757,7 @@ var ahegaonsfw = JSON.parse(fs.readFileSync('./HostMedia/anime/loli.json'))
 var xeonyresult = pickRandom(ahegaonsfw)
 ElgazarBot.sendMessage(m.chat, { caption: mess.success, image: { url: xeonyresult.url }, buttons: but, footer: botname }, { quoted: m })
 break
-case 'تانجيرو':
+case 'gvvgbdjbvgb':
 if (!m.isGroup) return m.reply(mess.group)
 m.reply(mess.wait)
 var but = [{buttonId: `${command}`, buttonText: { displayText: "التالي➡️" }, type: 1 }]
@@ -6975,7 +6975,7 @@ ElgazarBot.sendMessage(from, { text: `*${command}*\n\nالاسم : ${q}\nالا�
 					const taky = xeony[Math.floor(Math.random() * xeony.length)]
 					ElgazarBot.sendMessage(from, { text: `التحقق من الشخصيه : ${q}\nالاجابه : *${taky}*` }, { quoted: m })
 				     break
-                    case 'تتتتتتتتت':
+                    case 'تتتتتتتتتميزيز':
   case 'greatcheck':
     case 'gaycheck':
       case 'cutecheck':
@@ -7013,7 +7013,7 @@ ElgazarBot.sendMessage(from, { text: `*${command}*\n\nالاسم : ${q}\nالا�
       case 'كاذب':
       case 'كريه':
       case '>':
-      case 'ماباع':
+      case '<':
       case 'مجنون':
       case 'محبوب':
       case 'محترم':
