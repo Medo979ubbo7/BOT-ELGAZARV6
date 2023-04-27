@@ -35,7 +35,7 @@ global.wm = "🔱...𝑴𝑬𝑫𝑶..🐉" //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = [','!','.','#','&']
 global.sp = ''
 
 //messages
